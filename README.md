@@ -42,6 +42,7 @@ Dans un second temps, on pourra faire de la comparaison, étudier les évolution
     => pour l'instant se concentrer sur format permettant le traitement de texte, on verra par la suite pour le reste.
  - Issus de bases de données provenant de :
   - Gallica
+  - Érudit
   - BanQ
   - DolQ
  - Base de données à construire: 
