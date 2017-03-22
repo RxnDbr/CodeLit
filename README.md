@@ -1,13 +1,13 @@
-#PROJET CODE LITTÉRAIRE
-##Objectifs généraux : 
+# PROJET CODE LITTÉRAIRE
+## Objectifs généraux : 
 - Apporter des outils pour nos objets de recherches
 - Mettre en valeur les projets de numérisation du CRILQ
 - Apprendre la programmation pour apprendre à développer nos propores outils
 
-##Objectifs spécifiques : 
+## Objectifs spécifiques : 
  - Trouver et extraire des textes provenant de journaux stockés dans une BDD en fonction de leur thématique
  - Sectionner des journaux en articles et y attibuer une catégorie (fiction, information, consommation) pour faire des stats dessus, faire des comparaisons.
-##Démaches
+## Démaches
 Dans un premier temps, il faut étudier les articles individuellement. 
  - ETAPE 1 : recherche de vocabulaire/expression regulière (uniquement centré sur le texte brut) dans journal. 
 Trouver les journaux qui contiennent REGEX
@@ -23,7 +23,7 @@ Trouver les journaux qui contiennent champs lexical
     
 Dans un second temps, on pourra faire de la comparaison, étudier les évolutions des articles, des journaux, des sujets, etc. On verra quand on sera rendu là. 
  
-##Bases théoriques nécessaires aux étapes citées précédemment
+## Bases théoriques nécessaires aux étapes citées précédemment
 - Python
  - Algorithmie générale
  - Types et opérations sur les types
@@ -35,7 +35,7 @@ Dans un second temps, on pourra faire de la comparaison, étudier les évolution
 - Traitement automatique du langage : Expression régulière , classification automatique , génération de mot clef / résumé
 - Découverte de wordnet
 
-##Materiel : 
+## Materiel : 
  - Fichiers de différents formats : 
     - Format permettant le traitement de texte : HTML, texte, PDF avec analyse de texte possible
     - Format ne permettant pas le traitement de texte : PDF numérisation, JPG, papier
@@ -52,7 +52,7 @@ Dans un second temps, on pourra faire de la comparaison, étudier les évolution
   - code existant
   - code à développer
 
-##Ressources : 
+## Ressources : 
 - 2 littéraires purs
 - 1 littéraire très sensibilisé aux enjeux du numérique
 - 1 ingénieur avec compétences en info
